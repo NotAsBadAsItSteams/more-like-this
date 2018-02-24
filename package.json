@@ -4,7 +4,8 @@
   "description": "a service that powers a component displaying similar steam games",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server/index.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,12 @@
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.9.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.7.0"
+    "eslint-plugin-react": "^7.7.0",
+    "jest": "^22.4.2",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
   }
 }
