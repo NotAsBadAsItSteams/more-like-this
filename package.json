@@ -4,7 +4,8 @@
   "description": "a service that powers a component displaying similar steam games",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server/index.js"
   },
   "repository": {
     "type": "git",

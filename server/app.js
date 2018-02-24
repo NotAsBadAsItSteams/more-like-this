@@ -1,10 +1,10 @@
 const express = require('express');
-const morgan = require('morgan');
 const gamesRouter = require('./routers/games');
+const mountEnvironmentMiddleware = require('./environments');
 
 const app = express();
 
-app.use(morgan('tiny'));
+mountEnvironmentMiddleware(app);
 
 app.use('/games', gamesRouter);
 
