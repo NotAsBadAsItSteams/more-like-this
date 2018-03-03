@@ -8,7 +8,8 @@
     "start": "node server/index.js",
     "migrate": "knex migrate:latest",
     "rollback": "knex migrate:rollback",
-    "dev": "webpack -d --watch"
+    "dev": "webpack -d --watch",
+    "generate:data": "node generators/index.js"
   },
   "repository": {
     "type": "git",
