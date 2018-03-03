@@ -8,7 +8,7 @@ const price = require('./priceGenerator');
 const review = require('./reviewGenerator');
 const tag = require('./tagGenerator');
 const imageCreator = require('./imageCreator');
-const games = require('../data/games.json');
+const games = require('../data/base_games.json');
 
 Promise.promisifyAll(fs);
 
@@ -60,7 +60,7 @@ const writeJSONToFile = (filepath, data) =>
 // Write JSON files + create image files
 Promise.all([
   writeJSONToFile(path.join(__dirname, '../data/screenshots.json'), formattedScreenshots),
-  writeJSONToFile(path.join(__dirname, '../data/all_games.json'), formattedGames),
+  writeJSONToFile(path.join(__dirname, '../data/games.json'), formattedGames),
   writeJSONToFile(path.join(__dirname, '../data/tags_games.json'), formattedTagsGames),
   imageCreator.createAllThumbnails(fullGameData),
   imageCreator.createAllScreenshots(fullGameData),
