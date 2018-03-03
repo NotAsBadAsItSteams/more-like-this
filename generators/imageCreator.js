@@ -1,3 +1,4 @@
+const Promise = require('bluebird');
 const textToPicture = require('text-to-picture');
 const { snakeCase } = require('change-case');
 const path = require('path');
@@ -37,19 +38,18 @@ const createThumbnail = game => createImage({
   filename: game.thumbnail,
 });
 
-const createScreenshots = game => Promise.all(game.screenshots
-  .map((filename, i) =>
-    createImage({
-      color: colors[game.id % 5],
-      text: `${snakeCase(game.title)}-${i}`,
-      width: SCREENSHOT_WIDTH,
-      height: SCREENSHOT_HEIGHT,
-      filepath: IMAGE_DIR,
-      filename,
-    })));
+const createScreenshots = game => Promise.map(game.screenshots, (filename, i) =>
+  createImage({
+    color: colors[game.id % 5],
+    text: `${snakeCase(game.title)}-${i}`,
+    width: SCREENSHOT_WIDTH,
+    height: SCREENSHOT_HEIGHT,
+    filepath: IMAGE_DIR,
+    filename,
+  }));
 
-const createAllThumbnails = games => Promise.all(games.map(createThumbnail));
-const createAllScreenshots = games => Promise.all(games.map(createScreenshots));
+const createAllThumbnails = games => Promise.map(games, createThumbnail);
+const createAllScreenshots = games => Promise.map(games, createScreenshots);
 
 module.exports = {
   createAllThumbnails,
