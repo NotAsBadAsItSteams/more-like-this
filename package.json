@@ -35,6 +35,7 @@
     "eslint-plugin-import": "^2.9.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.7.0",
+    "identity-obj-proxy": "^3.0.0",
     "jest": "^22.4.2",
     "react-test-renderer": "^16.2.0",
     "style-loader": "^0.20.2",
@@ -72,6 +73,9 @@
     ],
     "setupFiles": [
       "<rootDir>/spec/setup.js"
-    ]
+    ],
+    "moduleNameMapper": {
+      "\\.(css|less)$": "identity-obj-proxy"
+    }
   }
 }
