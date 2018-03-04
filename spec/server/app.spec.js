@@ -21,13 +21,13 @@ describe('api routes', () => {
     test('response with data of correct shape', () => {
       const dataShape = expect.arrayContaining([
         expect.objectContaining({
-          game_id: expect.any(Number),
+          gameId: expect.any(Number),
           title: expect.any(String),
-          review_rating: expect.any(String),
-          review_number: expect.any(Number),
-          release_date: expect.any(String),
+          reviewRating: expect.any(String),
+          reviewNumber: expect.any(Number),
+          releaseDate: expect.any(String),
           price: expect.any(String),
-          thumbnail_url: expect.any(String),
+          thumbnailUrl: expect.any(String),
         }),
       ]);
 
@@ -57,13 +57,13 @@ describe('api routes', () => {
 
     test('response with data of correct shape', () => {
       const dataShape = expect.objectContaining({
-        game_id: expect.any(Number),
+        gameId: expect.any(Number),
         title: expect.any(String),
-        review_rating: expect.any(String),
-        review_number: expect.any(Number),
-        release_date: expect.any(String),
+        reviewRating: expect.any(String),
+        reviewNumber: expect.any(Number),
+        releaseDate: expect.any(String),
         price: expect.any(String),
-        thumbnail_url: expect.any(String),
+        thumbnailUrl: expect.any(String),
         screenshots: expect.any(Array),
         tags: expect.any(Array),
       });

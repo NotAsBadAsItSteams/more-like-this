@@ -1,4 +1,5 @@
 const express = require('express');
+const { camelKeys } = require('change-object-case');
 const games = require('../../db/games');
 
 const router = express.Router();
@@ -8,7 +9,7 @@ router
     const gameId = Number(req.params.id);
     games.getRelated(gameId)
       .then((related) => {
-        res.json(related);
+        res.json(related.map(r => camelKeys(r)));
       })
       .catch(() => {
         res.sendStatus(500);
@@ -21,7 +22,7 @@ router
         if (!game) {
           res.sendStatus(400);
         } else {
-          res.json(game);
+          res.json(camelKeys(game));
         }
       })
       .catch(() => {
