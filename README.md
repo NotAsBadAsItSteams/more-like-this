@@ -10,8 +10,9 @@
 
 ### Setup
 1. Ensure you have required dependencies.
-2. Create a postgres database with `createdb more_like_this` and ensure your postgres user has access to that database.
-3. Copy `sample.env`, rename it `.env`, and fill in needed values.
-4. Install project dependencies with `npm install`.
-5. Run `npm run migrate` to create tables.
-6. Run `npm start` to start server.
+2. Create a postgres database with `createdb more_like_this` and ensure your postgres user has access to that database
+3. Copy `sample.env`, rename it `.env`, and fill in needed values
+4. Install project dependencies with `npm install`
+5. Run `npm run migrate` to create tables
+6. Run `npm run seed` to seed tables with data
+7. Run `npm start` to start server
