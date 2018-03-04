@@ -1,0 +1,902 @@
+[
+  {
+    "game_id": 1,
+    "title": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+    "price": 25.75,
+    "review_number": 8909,
+    "review_rating": "Mixed",
+    "release_date": "2015-02-12T12:13:08.930Z",
+    "thumbnail_url": "/thumbnails/1.png"
+  },
+  {
+    "game_id": 2,
+    "title": "Dota 2",
+    "price": 45.99,
+    "review_number": 4197,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "2003-12-24T08:44:35.357Z",
+    "thumbnail_url": "/thumbnails/2.png"
+  },
+  {
+    "game_id": 3,
+    "title": "Counter-Strike: Global Offensive",
+    "price": 42.25,
+    "review_number": 565,
+    "review_rating": "Mostly Positive",
+    "release_date": "2000-08-23T05:46:53.768Z",
+    "thumbnail_url": "/thumbnails/3.png"
+  },
+  {
+    "game_id": 4,
+    "title": "Tom Clancy's Rainbow Six Siege",
+    "price": 62.75,
+    "review_number": 5651,
+    "review_rating": "Mostly Negative",
+    "release_date": "2005-09-24T15:38:17.815Z",
+    "thumbnail_url": "/thumbnails/4.png"
+  },
+  {
+    "game_id": 5,
+    "title": "PAYDAY 2",
+    "price": 38,
+    "review_number": 5020,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "1999-06-12T03:21:06.845Z",
+    "thumbnail_url": "/thumbnails/5.png"
+  },
+  {
+    "game_id": 6,
+    "title": "Warframe",
+    "price": 87.99,
+    "review_number": 9027,
+    "review_rating": "Very Negative",
+    "release_date": "2006-10-30T14:24:40.104Z",
+    "thumbnail_url": "/thumbnails/6.png"
+  },
+  {
+    "game_id": 7,
+    "title": "ARK: Survival Evolved",
+    "price": 94.75,
+    "review_number": 4851,
+    "review_rating": "Overwhelmingly Positive",
+    "release_date": "1996-01-11T23:27:12.528Z",
+    "thumbnail_url": "/thumbnails/7.png"
+  },
+  {
+    "game_id": 8,
+    "title": "Team Fortress 2",
+    "price": 65,
+    "review_number": 924,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "2010-04-01T02:09:24.079Z",
+    "thumbnail_url": "/thumbnails/8.png"
+  },
+  {
+    "game_id": 9,
+    "title": "Grand Theft Auto V",
+    "price": 1.75,
+    "review_number": 9196,
+    "review_rating": "Mostly Negative",
+    "release_date": "1997-06-22T07:53:09.576Z",
+    "thumbnail_url": "/thumbnails/9.png"
+  },
+  {
+    "game_id": 10,
+    "title": "Stellaris",
+    "price": 15.75,
+    "review_number": 5115,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "2007-09-08T09:29:05.612Z",
+    "thumbnail_url": "/thumbnails/10.png"
+  },
+  {
+    "game_id": 11,
+    "title": "Rocket League",
+    "price": 88.25,
+    "review_number": 4063,
+    "review_rating": "Very Positive",
+    "release_date": "2007-08-29T13:47:21.823Z",
+    "thumbnail_url": "/thumbnails/11.png"
+  },
+  {
+    "game_id": 12,
+    "title": "Sid Meier's Civilization VI",
+    "price": 23.75,
+    "review_number": 4107,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "1998-01-04T01:14:23.638Z",
+    "thumbnail_url": "/thumbnails/12.png"
+  },
+  {
+    "game_id": 13,
+    "title": "Sid Meier's Civilization V",
+    "price": 75.99,
+    "review_number": 6704,
+    "review_rating": "Very Negative",
+    "release_date": "2012-09-29T16:00:11.576Z",
+    "thumbnail_url": "/thumbnails/13.png"
+  },
+  {
+    "game_id": 14,
+    "title": "Garry's Mod",
+    "price": 18,
+    "review_number": 9385,
+    "review_rating": "Very Negative",
+    "release_date": "2002-11-03T08:27:53.164Z",
+    "thumbnail_url": "/thumbnails/14.png"
+  },
+  {
+    "game_id": 15,
+    "title": "Kingdom Come: Deliverance",
+    "price": 8,
+    "review_number": 1779,
+    "review_rating": "Very Negative",
+    "release_date": "2000-07-13T05:38:22.938Z",
+    "thumbnail_url": "/thumbnails/15.png"
+  },
+  {
+    "game_id": 16,
+    "title": "Rust",
+    "price": 71.25,
+    "review_number": 3669,
+    "review_rating": "Very Negative",
+    "release_date": "2012-02-25T21:18:55.315Z",
+    "thumbnail_url": "/thumbnails/16.png"
+  },
+  {
+    "game_id": 17,
+    "title": "Football Manager 2018",
+    "price": 28.75,
+    "review_number": 1054,
+    "review_rating": "Very Positive",
+    "release_date": "1996-06-13T09:28:02.925Z",
+    "thumbnail_url": "/thumbnails/17.png"
+  },
+  {
+    "game_id": 18,
+    "title": "Fallout 4",
+    "price": 75,
+    "review_number": 8801,
+    "review_rating": "Overwhelmingly Positive",
+    "release_date": "1999-10-19T21:21:02.618Z",
+    "thumbnail_url": "/thumbnails/18.png"
+  },
+  {
+    "game_id": 19,
+    "title": "Slay the Spire",
+    "price": 17.75,
+    "review_number": 6020,
+    "review_rating": "Mostly Positive",
+    "release_date": "1999-06-24T00:05:37.958Z",
+    "thumbnail_url": "/thumbnails/19.png"
+  },
+  {
+    "game_id": 20,
+    "title": "Terraria",
+    "price": 78,
+    "review_number": 6304,
+    "review_rating": "Overwhelmingly Positive",
+    "release_date": "2004-11-07T07:29:20.735Z",
+    "thumbnail_url": "/thumbnails/20.png"
+  },
+  {
+    "game_id": 21,
+    "title": "Black Desert Online",
+    "price": 52.99,
+    "review_number": 747,
+    "review_rating": "Mostly Positive",
+    "release_date": "1998-07-26T17:15:35.799Z",
+    "thumbnail_url": "/thumbnails/21.png"
+  },
+  {
+    "game_id": 22,
+    "title": "Arma 3",
+    "price": 79.25,
+    "review_number": 598,
+    "review_rating": "Very Negative",
+    "release_date": "2016-06-19T03:59:42.735Z",
+    "thumbnail_url": "/thumbnails/22.png"
+  },
+  {
+    "game_id": 23,
+    "title": "Paladins",
+    "price": 67.25,
+    "review_number": 603,
+    "review_rating": "Very Positive",
+    "release_date": "2017-12-09T00:51:11.905Z",
+    "thumbnail_url": "/thumbnails/23.png"
+  },
+  {
+    "game_id": 24,
+    "title": "DARK SOULS™ III",
+    "price": 21.75,
+    "review_number": 8566,
+    "review_rating": "Overwhelmingly Positive",
+    "release_date": "2001-02-08T09:43:29.346Z",
+    "thumbnail_url": "/thumbnails/24.png"
+  },
+  {
+    "game_id": 25,
+    "title": "Dead by Daylight",
+    "price": 98.25,
+    "review_number": 6754,
+    "review_rating": "Very Positive",
+    "release_date": "2013-04-06T07:02:19.022Z",
+    "thumbnail_url": "/thumbnails/25.png"
+  },
+  {
+    "game_id": 26,
+    "title": "The Elder Scrolls V: Skyrim",
+    "price": 71,
+    "review_number": 4727,
+    "review_rating": "Mostly Negative",
+    "release_date": "2010-03-05T07:14:10.977Z",
+    "thumbnail_url": "/thumbnails/26.png"
+  },
+  {
+    "game_id": 27,
+    "title": "Yu-Gi-Oh! Duel Links",
+    "price": 55.99,
+    "review_number": 417,
+    "review_rating": "Mixed",
+    "release_date": "2010-04-13T18:27:17.717Z",
+    "thumbnail_url": "/thumbnails/27.png"
+  },
+  {
+    "game_id": 28,
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "price": 53.25,
+    "review_number": 8119,
+    "review_rating": "Mostly Positive",
+    "release_date": "1997-03-24T01:21:18.855Z",
+    "thumbnail_url": "/thumbnails/28.png"
+  },
+  {
+    "game_id": 29,
+    "title": "The Witcher 3: Wild Hunt",
+    "price": 50.25,
+    "review_number": 164,
+    "review_rating": "Overwhelmingly Positive",
+    "release_date": "2013-10-26T04:10:05.651Z",
+    "thumbnail_url": "/thumbnails/29.png"
+  },
+  {
+    "game_id": 30,
+    "title": "Subnautica",
+    "price": 53.25,
+    "review_number": 2409,
+    "review_rating": "Very Positive",
+    "release_date": "1996-08-27T15:33:34.221Z",
+    "thumbnail_url": "/thumbnails/30.png"
+  },
+  {
+    "game_id": 31,
+    "title": "Stardew Valley",
+    "price": 89.25,
+    "review_number": 5014,
+    "review_rating": "Mostly Positive",
+    "release_date": "2007-06-09T12:12:02.942Z",
+    "thumbnail_url": "/thumbnails/31.png"
+  },
+  {
+    "game_id": 32,
+    "title": "Hearts of Iron IV",
+    "price": 44.75,
+    "review_number": 7506,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "2001-10-18T20:07:54.866Z",
+    "thumbnail_url": "/thumbnails/32.png"
+  },
+  {
+    "game_id": 33,
+    "title": "SMITE",
+    "price": 27,
+    "review_number": 540,
+    "review_rating": "Overwhelmingly Positive",
+    "release_date": "2005-01-30T09:44:51.088Z",
+    "thumbnail_url": "/thumbnails/33.png"
+  },
+  {
+    "game_id": 34,
+    "title": "Left 4 Dead 2",
+    "price": 44,
+    "review_number": 5629,
+    "review_rating": "Very Negative",
+    "release_date": "2015-03-31T21:07:11.480Z",
+    "thumbnail_url": "/thumbnails/34.png"
+  },
+  {
+    "game_id": 35,
+    "title": "War Thunder",
+    "price": 19.75,
+    "review_number": 3985,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "2000-03-09T15:59:49.634Z",
+    "thumbnail_url": "/thumbnails/35.png"
+  },
+  {
+    "game_id": 36,
+    "title": "Unturned",
+    "price": 66.99,
+    "review_number": 1297,
+    "review_rating": "Mixed",
+    "release_date": "2010-09-17T03:52:12.726Z",
+    "thumbnail_url": "/thumbnails/36.png"
+  },
+  {
+    "game_id": 37,
+    "title": "FINAL FANTASY XIV Online",
+    "price": 0.25,
+    "review_number": 9232,
+    "review_rating": "Very Negative",
+    "release_date": "2008-12-01T17:23:17.290Z",
+    "thumbnail_url": "/thumbnails/37.png"
+  },
+  {
+    "game_id": 38,
+    "title": "7 Days to Die",
+    "price": 58.25,
+    "review_number": 7711,
+    "review_rating": "Mostly Positive",
+    "release_date": "1996-05-25T11:39:01.516Z",
+    "thumbnail_url": "/thumbnails/38.png"
+  },
+  {
+    "game_id": 39,
+    "title": "Total War: WARHAMMER II",
+    "price": 74,
+    "review_number": 9050,
+    "review_rating": "Overwhelmingly Positive",
+    "release_date": "2011-07-10T10:28:22.582Z",
+    "thumbnail_url": "/thumbnails/39.png"
+  },
+  {
+    "game_id": 40,
+    "title": "The Elder Scrolls Online: Tamriel Unlimited",
+    "price": 17.99,
+    "review_number": 486,
+    "review_rating": "Mostly Positive",
+    "release_date": "2017-11-28T17:54:13.518Z",
+    "thumbnail_url": "/thumbnails/40.png"
+  },
+  {
+    "game_id": 41,
+    "title": "Age of Empires II: HD Edition",
+    "price": 28.75,
+    "review_number": 9212,
+    "review_rating": "Mixed",
+    "release_date": "2012-02-26T10:37:12.456Z",
+    "thumbnail_url": "/thumbnails/41.png"
+  },
+  {
+    "game_id": 42,
+    "title": "Divinity: Original Sin 2",
+    "price": 52,
+    "review_number": 3946,
+    "review_rating": "Overwhelmingly Positive",
+    "release_date": "2002-02-11T15:55:38.950Z",
+    "thumbnail_url": "/thumbnails/42.png"
+  },
+  {
+    "game_id": 43,
+    "title": "Counter-Strike",
+    "price": 18.25,
+    "review_number": 2992,
+    "review_rating": "Mostly Negative",
+    "release_date": "2000-06-19T03:54:49.770Z",
+    "thumbnail_url": "/thumbnails/43.png"
+  },
+  {
+    "game_id": 44,
+    "title": "Path of Exile",
+    "price": 1.75,
+    "review_number": 5032,
+    "review_rating": "Mixed",
+    "release_date": "2000-03-31T12:49:11.774Z",
+    "thumbnail_url": "/thumbnails/44.png"
+  },
+  {
+    "game_id": 45,
+    "title": "Europa Universalis IV",
+    "price": 53.75,
+    "review_number": 7386,
+    "review_rating": "Mostly Negative",
+    "release_date": "1996-09-14T14:42:05.488Z",
+    "thumbnail_url": "/thumbnails/45.png"
+  },
+  {
+    "game_id": 46,
+    "title": "VRChat",
+    "price": 99.99,
+    "review_number": 9612,
+    "review_rating": "Mostly Positive",
+    "release_date": "1996-03-20T01:06:29.859Z",
+    "thumbnail_url": "/thumbnails/46.png"
+  },
+  {
+    "game_id": 47,
+    "title": "Borderlands 2",
+    "price": 10.75,
+    "review_number": 9544,
+    "review_rating": "Overwhelmingly Positive",
+    "release_date": "2001-12-20T07:37:40.113Z",
+    "thumbnail_url": "/thumbnails/47.png"
+  },
+  {
+    "game_id": 48,
+    "title": "Football Manager 2017",
+    "price": 90.75,
+    "review_number": 2926,
+    "review_rating": "Very Positive",
+    "release_date": "2008-10-03T10:00:14.201Z",
+    "thumbnail_url": "/thumbnails/48.png"
+  },
+  {
+    "game_id": 49,
+    "title": "Sword Art Online: Fatal Bullet",
+    "price": 24.99,
+    "review_number": 3203,
+    "review_rating": "Mostly Positive",
+    "release_date": "2016-02-14T22:39:12.473Z",
+    "thumbnail_url": "/thumbnails/49.png"
+  },
+  {
+    "game_id": 50,
+    "title": "Factorio",
+    "price": 83,
+    "review_number": 5101,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "1996-03-05T00:40:27.430Z",
+    "thumbnail_url": "/thumbnails/50.png"
+  },
+  {
+    "game_id": 51,
+    "title": "Cities: Skylines",
+    "price": 56,
+    "review_number": 9796,
+    "review_rating": "Mostly Negative",
+    "release_date": "2009-05-16T15:12:25.006Z",
+    "thumbnail_url": "/thumbnails/51.png"
+  },
+  {
+    "game_id": 52,
+    "title": "Source SDK Base 2013 Multiplayer",
+    "price": 82,
+    "review_number": 2183,
+    "review_rating": "Mixed",
+    "release_date": "1999-07-01T23:26:11.376Z",
+    "thumbnail_url": "/thumbnails/52.png"
+  },
+  {
+    "game_id": 53,
+    "title": "Hunt: Showdown",
+    "price": 90.99,
+    "review_number": 8966,
+    "review_rating": "Very Positive",
+    "release_date": "2008-05-29T05:12:11.895Z",
+    "thumbnail_url": "/thumbnails/53.png"
+  },
+  {
+    "game_id": 54,
+    "title": "Brawlhalla",
+    "price": 2.99,
+    "review_number": 5179,
+    "review_rating": "Mostly Positive",
+    "release_date": "2012-07-15T08:07:45.463Z",
+    "thumbnail_url": "/thumbnails/54.png"
+  },
+  {
+    "game_id": 55,
+    "title": "Euro Truck Simulator 2",
+    "price": 97.99,
+    "review_number": 9970,
+    "review_rating": "Mostly Negative",
+    "release_date": "2008-04-19T15:39:26.707Z",
+    "thumbnail_url": "/thumbnails/55.png"
+  },
+  {
+    "game_id": 56,
+    "title": "Black Squad",
+    "price": 29.75,
+    "review_number": 7893,
+    "review_rating": "Overwhelmingly Positive",
+    "release_date": "1995-05-12T20:05:43.834Z",
+    "thumbnail_url": "/thumbnails/56.png"
+  },
+  {
+    "game_id": 57,
+    "title": "Wallpaper Engine",
+    "price": 84.25,
+    "review_number": 2796,
+    "review_rating": "Very Negative",
+    "release_date": "2001-10-30T11:31:40.518Z",
+    "thumbnail_url": "/thumbnails/57.png"
+  },
+  {
+    "game_id": 58,
+    "title": "Clicker Heroes",
+    "price": 64,
+    "review_number": 9525,
+    "review_rating": "Very Negative",
+    "release_date": "1996-06-07T12:53:18.581Z",
+    "thumbnail_url": "/thumbnails/58.png"
+  },
+  {
+    "game_id": 59,
+    "title": "RimWorld",
+    "price": 11.75,
+    "review_number": 6219,
+    "review_rating": "Mostly Positive",
+    "release_date": "2007-07-06T15:22:34.682Z",
+    "thumbnail_url": "/thumbnails/59.png"
+  },
+  {
+    "game_id": 60,
+    "title": "Warhammer: Vermintide 2 Closed Test",
+    "price": 44,
+    "review_number": 9549,
+    "review_rating": "Overwhelmingly Positive",
+    "release_date": "2012-05-25T15:20:42.682Z",
+    "thumbnail_url": "/thumbnails/60.png"
+  },
+  {
+    "game_id": 61,
+    "title": "NBA 2K18",
+    "price": 89.99,
+    "review_number": 1963,
+    "review_rating": "Overwhelmingly Positive",
+    "release_date": "2001-05-06T09:23:23.289Z",
+    "thumbnail_url": "/thumbnails/61.png"
+  },
+  {
+    "game_id": 62,
+    "title": "Don't Starve Together",
+    "price": 96.75,
+    "review_number": 2232,
+    "review_rating": "Mostly Positive",
+    "release_date": "2014-09-19T21:53:27.340Z",
+    "thumbnail_url": "/thumbnails/62.png"
+  },
+  {
+    "game_id": 63,
+    "title": "Mount & Blade: Warband",
+    "price": 5,
+    "review_number": 5351,
+    "review_rating": "Very Negative",
+    "release_date": "2011-02-07T08:31:39.160Z",
+    "thumbnail_url": "/thumbnails/63.png"
+  },
+  {
+    "game_id": 64,
+    "title": "The Binding of Isaac: Rebirth",
+    "price": 3,
+    "review_number": 7395,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "2006-02-21T05:46:49.130Z",
+    "thumbnail_url": "/thumbnails/64.png"
+  },
+  {
+    "game_id": 65,
+    "title": "Elite Dangerous",
+    "price": 14.99,
+    "review_number": 2880,
+    "review_rating": "Mixed",
+    "release_date": "1999-03-27T12:58:52.976Z",
+    "thumbnail_url": "/thumbnails/65.png"
+  },
+  {
+    "game_id": 66,
+    "title": "Tom Clancy's The Division",
+    "price": 4.25,
+    "review_number": 5438,
+    "review_rating": "Mostly Positive",
+    "release_date": "2002-06-03T19:05:16.319Z",
+    "thumbnail_url": "/thumbnails/66.png"
+  },
+  {
+    "game_id": 67,
+    "title": "Total War: ROME II - Emperor Edition",
+    "price": 78,
+    "review_number": 6515,
+    "review_rating": "Mixed",
+    "release_date": "2018-01-18T21:06:51.010Z",
+    "thumbnail_url": "/thumbnails/67.png"
+  },
+  {
+    "game_id": 68,
+    "title": "METAL GEAR SURVIVE",
+    "price": 11.25,
+    "review_number": 758,
+    "review_rating": "Mostly Negative",
+    "release_date": "1999-03-13T22:50:20.351Z",
+    "thumbnail_url": "/thumbnails/68.png"
+  },
+  {
+    "game_id": 69,
+    "title": "Farming Simulator 17",
+    "price": 8.99,
+    "review_number": 4360,
+    "review_rating": "Very Positive",
+    "release_date": "2009-04-25T23:47:21.815Z",
+    "thumbnail_url": "/thumbnails/69.png"
+  },
+  {
+    "game_id": 70,
+    "title": "Call of Duty: WWII - Multiplayer",
+    "price": 13.99,
+    "review_number": 9851,
+    "review_rating": "Mixed",
+    "release_date": "1999-12-17T09:25:31.119Z",
+    "thumbnail_url": "/thumbnails/70.png"
+  },
+  {
+    "game_id": 71,
+    "title": "XCOM 2",
+    "price": 65.99,
+    "review_number": 9449,
+    "review_rating": "Very Positive",
+    "release_date": "2016-02-25T03:07:15.495Z",
+    "thumbnail_url": "/thumbnails/71.png"
+  },
+  {
+    "game_id": 72,
+    "title": "Kerbal Space Program",
+    "price": 57.25,
+    "review_number": 6962,
+    "review_rating": "Very Positive",
+    "release_date": "2015-01-05T20:47:17.538Z",
+    "thumbnail_url": "/thumbnails/72.png"
+  },
+  {
+    "game_id": 73,
+    "title": "Fallout: New Vegas",
+    "price": 66.99,
+    "review_number": 5914,
+    "review_rating": "Very Negative",
+    "release_date": "2003-08-29T10:15:08.315Z",
+    "thumbnail_url": "/thumbnails/73.png"
+  },
+  {
+    "game_id": 74,
+    "title": "DRAGON BALL FighterZ",
+    "price": 67.25,
+    "review_number": 1004,
+    "review_rating": "Mostly Positive",
+    "release_date": "2014-07-02T10:34:46.772Z",
+    "thumbnail_url": "/thumbnails/74.png"
+  },
+  {
+    "game_id": 75,
+    "title": "FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO",
+    "price": 35,
+    "review_number": 944,
+    "review_rating": "Very Negative",
+    "release_date": "2005-04-12T17:30:47.435Z",
+    "thumbnail_url": "/thumbnails/75.png"
+  },
+  {
+    "game_id": 76,
+    "title": "Crusader Kings II",
+    "price": 6.99,
+    "review_number": 5096,
+    "review_rating": "Mostly Negative",
+    "release_date": "2009-10-24T10:23:08.596Z",
+    "thumbnail_url": "/thumbnails/76.png"
+  },
+  {
+    "game_id": 77,
+    "title": "Geometry Dash",
+    "price": 18.99,
+    "review_number": 5908,
+    "review_rating": "Very Negative",
+    "release_date": "1999-07-23T01:49:52.835Z",
+    "thumbnail_url": "/thumbnails/77.png"
+  },
+  {
+    "game_id": 78,
+    "title": "Idle Champions of the Forgotten Realms",
+    "price": 50,
+    "review_number": 5228,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "2008-09-09T03:38:55.189Z",
+    "thumbnail_url": "/thumbnails/78.png"
+  },
+  {
+    "game_id": 79,
+    "title": "EVGA Precision XOC",
+    "price": 31.99,
+    "review_number": 7574,
+    "review_rating": "Mostly Positive",
+    "release_date": "2010-01-31T17:51:20.283Z",
+    "thumbnail_url": "/thumbnails/79.png"
+  },
+  {
+    "game_id": 80,
+    "title": "Dying Light",
+    "price": 64.75,
+    "review_number": 9954,
+    "review_rating": "Mostly Negative",
+    "release_date": "2014-07-18T22:29:10.330Z",
+    "thumbnail_url": "/thumbnails/80.png"
+  },
+  {
+    "game_id": 81,
+    "title": "The Sims(TM) 3",
+    "price": 57.99,
+    "review_number": 9811,
+    "review_rating": "Mixed",
+    "release_date": "2012-12-08T05:01:59.490Z",
+    "thumbnail_url": "/thumbnails/81.png"
+  },
+  {
+    "game_id": 82,
+    "title": "H1Z1",
+    "price": 82.75,
+    "review_number": 4149,
+    "review_rating": "Very Negative",
+    "release_date": "2011-02-11T04:27:44.863Z",
+    "thumbnail_url": "/thumbnails/82.png"
+  },
+  {
+    "game_id": 83,
+    "title": "The Forest",
+    "price": 89,
+    "review_number": 3180,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "2000-03-17T11:13:51.977Z",
+    "thumbnail_url": "/thumbnails/83.png"
+  },
+  {
+    "game_id": 84,
+    "title": "Starbound",
+    "price": 67.25,
+    "review_number": 7410,
+    "review_rating": "Very Positive",
+    "release_date": "2017-04-23T09:12:43.151Z",
+    "thumbnail_url": "/thumbnails/84.png"
+  },
+  {
+    "game_id": 85,
+    "title": "SoulWorker",
+    "price": 57.75,
+    "review_number": 9007,
+    "review_rating": "Mostly Positive",
+    "release_date": "2002-01-10T23:14:40.398Z",
+    "thumbnail_url": "/thumbnails/85.png"
+  },
+  {
+    "game_id": 86,
+    "title": "For Honor",
+    "price": 61.99,
+    "review_number": 6819,
+    "review_rating": "Mixed",
+    "release_date": "2014-06-30T03:54:11.128Z",
+    "thumbnail_url": "/thumbnails/86.png"
+  },
+  {
+    "game_id": 87,
+    "title": "Space Engineers",
+    "price": 83.25,
+    "review_number": 2434,
+    "review_rating": "Mostly Negative",
+    "release_date": "2014-10-12T08:43:41.257Z",
+    "thumbnail_url": "/thumbnails/87.png"
+  },
+  {
+    "game_id": 88,
+    "title": "Killing Floor 2",
+    "price": 83.75,
+    "review_number": 879,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "2012-10-13T14:14:52.220Z",
+    "thumbnail_url": "/thumbnails/88.png"
+  },
+  {
+    "game_id": 89,
+    "title": "Battlerite",
+    "price": 2.75,
+    "review_number": 9343,
+    "review_rating": "Very Negative",
+    "release_date": "2016-12-23T16:33:03.738Z",
+    "thumbnail_url": "/thumbnails/89.png"
+  },
+  {
+    "game_id": 90,
+    "title": "DRAGON BALL XENOVERSE 2",
+    "price": 66.25,
+    "review_number": 9330,
+    "review_rating": "Mostly Positive",
+    "release_date": "2003-07-03T09:46:24.790Z",
+    "thumbnail_url": "/thumbnails/90.png"
+  },
+  {
+    "game_id": 91,
+    "title": "Trove",
+    "price": 64.75,
+    "review_number": 9176,
+    "review_rating": "Very Negative",
+    "release_date": "2007-07-14T12:47:29.198Z",
+    "thumbnail_url": "/thumbnails/91.png"
+  },
+  {
+    "game_id": 92,
+    "title": "Counter-Strike: Source",
+    "price": 77.75,
+    "review_number": 4385,
+    "review_rating": "Very Negative",
+    "release_date": "2005-11-07T06:32:46.385Z",
+    "thumbnail_url": "/thumbnails/92.png"
+  },
+  {
+    "game_id": 93,
+    "title": "They Are Billions",
+    "price": 90.99,
+    "review_number": 3545,
+    "review_rating": "Mostly Negative",
+    "release_date": "2016-01-05T13:33:30.800Z",
+    "thumbnail_url": "/thumbnails/93.png"
+  },
+  {
+    "game_id": 94,
+    "title": "American Truck Simulator",
+    "price": 97.99,
+    "review_number": 2590,
+    "review_rating": "Mostly Positive",
+    "release_date": "2013-03-14T14:33:42.466Z",
+    "thumbnail_url": "/thumbnails/94.png"
+  },
+  {
+    "game_id": 95,
+    "title": "Assassin's Creed Origins",
+    "price": 98.75,
+    "review_number": 2382,
+    "review_rating": "Mostly Negative",
+    "release_date": "2016-05-23T05:22:13.477Z",
+    "thumbnail_url": "/thumbnails/95.png"
+  },
+  {
+    "game_id": 96,
+    "title": "Warface",
+    "price": 1.75,
+    "review_number": 2194,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "2005-10-04T06:08:29.949Z",
+    "thumbnail_url": "/thumbnails/96.png"
+  },
+  {
+    "game_id": 97,
+    "title": "Tom Clancy's Rainbow Six Siege - Technical Test Server",
+    "price": 31.99,
+    "review_number": 64,
+    "review_rating": "Overwhelmingly Negative",
+    "release_date": "2011-01-19T11:32:58.038Z",
+    "thumbnail_url": "/thumbnails/97.png"
+  },
+  {
+    "game_id": 98,
+    "title": "Tom Clancy's Ghost Recon® Wildlands",
+    "price": 68,
+    "review_number": 5055,
+    "review_rating": "Very Negative",
+    "release_date": "2001-08-13T03:32:00.048Z",
+    "thumbnail_url": "/thumbnails/98.png"
+  },
+  {
+    "game_id": 99,
+    "title": "EVE Online",
+    "price": 28,
+    "review_number": 5367,
+    "review_rating": "Mostly Positive",
+    "release_date": "2015-06-15T10:27:25.305Z",
+    "thumbnail_url": "/thumbnails/99.png"
+  },
+  {
+    "game_id": 100,
+    "title": "Company of Heroes 2",
+    "price": 67,
+    "review_number": 5395,
+    "review_rating": "Very Positive",
+    "release_date": "2014-08-30T09:45:35.762Z",
+    "thumbnail_url": "/thumbnails/100.png"
+  }
+]

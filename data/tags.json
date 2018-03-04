@@ -1,0 +1,1346 @@
+[
+  {
+    "name": "1980s",
+    "id": 1
+  },
+  {
+    "name": "1990's",
+    "id": 2
+  },
+  {
+    "name": "2.5D",
+    "id": 3
+  },
+  {
+    "name": "2D",
+    "id": 4
+  },
+  {
+    "name": "2D Fighter",
+    "id": 5
+  },
+  {
+    "name": "360 Video",
+    "id": 6
+  },
+  {
+    "name": "3D Platformer",
+    "id": 7
+  },
+  {
+    "name": "3D Vision",
+    "id": 8
+  },
+  {
+    "name": "4 Player Local",
+    "id": 9
+  },
+  {
+    "name": "4X",
+    "id": 10
+  },
+  {
+    "name": "6DOF",
+    "id": 11
+  },
+  {
+    "name": "Abstract",
+    "id": 12
+  },
+  {
+    "name": "Action",
+    "id": 13
+  },
+  {
+    "name": "Action RPG",
+    "id": 14
+  },
+  {
+    "name": "Action-Adventure",
+    "id": 15
+  },
+  {
+    "name": "Adventure",
+    "id": 16
+  },
+  {
+    "name": "Agriculture",
+    "id": 17
+  },
+  {
+    "name": "Aliens",
+    "id": 18
+  },
+  {
+    "name": "Alternate History",
+    "id": 19
+  },
+  {
+    "name": "America",
+    "id": 20
+  },
+  {
+    "name": "Animation & Modeling",
+    "id": 21
+  },
+  {
+    "name": "Anime",
+    "id": 22
+  },
+  {
+    "name": "Arcade",
+    "id": 23
+  },
+  {
+    "name": "Arena Shooter",
+    "id": 24
+  },
+  {
+    "name": "Artificial Intelligence",
+    "id": 25
+  },
+  {
+    "name": "Assassin",
+    "id": 26
+  },
+  {
+    "name": "Asynchronous Multiplayer",
+    "id": 27
+  },
+  {
+    "name": "Atmospheric",
+    "id": 28
+  },
+  {
+    "name": "Audio Production",
+    "id": 29
+  },
+  {
+    "name": "Base Building",
+    "id": 30
+  },
+  {
+    "name": "Based On A Novel",
+    "id": 31
+  },
+  {
+    "name": "Basketball",
+    "id": 32
+  },
+  {
+    "name": "Batman",
+    "id": 33
+  },
+  {
+    "name": "Beat 'em up",
+    "id": 34
+  },
+  {
+    "name": "Benchmark",
+    "id": 35
+  },
+  {
+    "name": "Bikes",
+    "id": 36
+  },
+  {
+    "name": "Blood",
+    "id": 37
+  },
+  {
+    "name": "Board Game",
+    "id": 38
+  },
+  {
+    "name": "Bowling",
+    "id": 39
+  },
+  {
+    "name": "Building",
+    "id": 40
+  },
+  {
+    "name": "Bullet Hell",
+    "id": 41
+  },
+  {
+    "name": "Bullet Time",
+    "id": 42
+  },
+  {
+    "name": "CRPG",
+    "id": 43
+  },
+  {
+    "name": "Capitalism",
+    "id": 44
+  },
+  {
+    "name": "Card Game",
+    "id": 45
+  },
+  {
+    "name": "Cartoon",
+    "id": 46
+  },
+  {
+    "name": "Cartoony",
+    "id": 47
+  },
+  {
+    "name": "Casual",
+    "id": 48
+  },
+  {
+    "name": "Character Action Game",
+    "id": 49
+  },
+  {
+    "name": "Character Customization",
+    "id": 50
+  },
+  {
+    "name": "Chess",
+    "id": 51
+  },
+  {
+    "name": "Choices Matter",
+    "id": 52
+  },
+  {
+    "name": "Choose Your Own Adventure",
+    "id": 53
+  },
+  {
+    "name": "Cinematic",
+    "id": 54
+  },
+  {
+    "name": "City Builder",
+    "id": 55
+  },
+  {
+    "name": "Class-Based",
+    "id": 56
+  },
+  {
+    "name": "Classic",
+    "id": 57
+  },
+  {
+    "name": "Clicker",
+    "id": 58
+  },
+  {
+    "name": "Co-op",
+    "id": 59
+  },
+  {
+    "name": "Co-op Campaign",
+    "id": 60
+  },
+  {
+    "name": "Cold War",
+    "id": 61
+  },
+  {
+    "name": "Colorful",
+    "id": 62
+  },
+  {
+    "name": "Comedy",
+    "id": 63
+  },
+  {
+    "name": "Comic Book",
+    "id": 64
+  },
+  {
+    "name": "Competitive",
+    "id": 65
+  },
+  {
+    "name": "Conspiracy",
+    "id": 66
+  },
+  {
+    "name": "Controller",
+    "id": 67
+  },
+  {
+    "name": "Conversation",
+    "id": 68
+  },
+  {
+    "name": "Crafting",
+    "id": 69
+  },
+  {
+    "name": "Crime",
+    "id": 70
+  },
+  {
+    "name": "Crowdfunded",
+    "id": 71
+  },
+  {
+    "name": "Cult Classic",
+    "id": 72
+  },
+  {
+    "name": "Cute",
+    "id": 73
+  },
+  {
+    "name": "Cyberpunk",
+    "id": 74
+  },
+  {
+    "name": "Cycling",
+    "id": 75
+  },
+  {
+    "name": "Dark",
+    "id": 76
+  },
+  {
+    "name": "Dark Comedy",
+    "id": 77
+  },
+  {
+    "name": "Dark Fantasy",
+    "id": 78
+  },
+  {
+    "name": "Dark Humor",
+    "id": 79
+  },
+  {
+    "name": "Dating Sim",
+    "id": 80
+  },
+  {
+    "name": "Demons",
+    "id": 81
+  },
+  {
+    "name": "Design & Illustration",
+    "id": 82
+  },
+  {
+    "name": "Destruction",
+    "id": 83
+  },
+  {
+    "name": "Detective",
+    "id": 84
+  },
+  {
+    "name": "Difficult",
+    "id": 85
+  },
+  {
+    "name": "Dinosaurs",
+    "id": 86
+  },
+  {
+    "name": "Diplomacy",
+    "id": 87
+  },
+  {
+    "name": "Documentary",
+    "id": 88
+  },
+  {
+    "name": "Dragons",
+    "id": 89
+  },
+  {
+    "name": "Drama",
+    "id": 90
+  },
+  {
+    "name": "Driving",
+    "id": 91
+  },
+  {
+    "name": "Dungeon Crawler",
+    "id": 92
+  },
+  {
+    "name": "Dynamic Narration",
+    "id": 93
+  },
+  {
+    "name": "Dystopian",
+    "id": 94
+  },
+  {
+    "name": "Economy",
+    "id": 95
+  },
+  {
+    "name": "Education",
+    "id": 96
+  },
+  {
+    "name": "Episodic",
+    "id": 97
+  },
+  {
+    "name": "Experience",
+    "id": 98
+  },
+  {
+    "name": "Experimental",
+    "id": 99
+  },
+  {
+    "name": "Exploration",
+    "id": 100
+  },
+  {
+    "name": "FMV",
+    "id": 101
+  },
+  {
+    "name": "FPS",
+    "id": 102
+  },
+  {
+    "name": "Faith",
+    "id": 103
+  },
+  {
+    "name": "Family Friendly",
+    "id": 104
+  },
+  {
+    "name": "Fantasy",
+    "id": 105
+  },
+  {
+    "name": "Fast-Paced",
+    "id": 106
+  },
+  {
+    "name": "Feature Film",
+    "id": 107
+  },
+  {
+    "name": "Female Protagonist",
+    "id": 108
+  },
+  {
+    "name": "Fighting",
+    "id": 109
+  },
+  {
+    "name": "First-Person",
+    "id": 110
+  },
+  {
+    "name": "Fishing",
+    "id": 111
+  },
+  {
+    "name": "Flight",
+    "id": 112
+  },
+  {
+    "name": "Football",
+    "id": 113
+  },
+  {
+    "name": "Foreign",
+    "id": 114
+  },
+  {
+    "name": "Free to Play",
+    "id": 115
+  },
+  {
+    "name": "Funny",
+    "id": 116
+  },
+  {
+    "name": "Futuristic",
+    "id": 117
+  },
+  {
+    "name": "Gambling",
+    "id": 118
+  },
+  {
+    "name": "Game Development",
+    "id": 119
+  },
+  {
+    "name": "GameMaker",
+    "id": 120
+  },
+  {
+    "name": "Games Workshop",
+    "id": 121
+  },
+  {
+    "name": "Gaming",
+    "id": 122
+  },
+  {
+    "name": "God Game",
+    "id": 123
+  },
+  {
+    "name": "Golf",
+    "id": 124
+  },
+  {
+    "name": "Gore",
+    "id": 125
+  },
+  {
+    "name": "Gothic",
+    "id": 126
+  },
+  {
+    "name": "Grand Strategy",
+    "id": 127
+  },
+  {
+    "name": "Great Soundtrack",
+    "id": 128
+  },
+  {
+    "name": "Grid-Based Movement",
+    "id": 129
+  },
+  {
+    "name": "Gun Customization",
+    "id": 130
+  },
+  {
+    "name": "Hack and Slash",
+    "id": 131
+  },
+  {
+    "name": "Hacking",
+    "id": 132
+  },
+  {
+    "name": "Hand-drawn",
+    "id": 133
+  },
+  {
+    "name": "Hardware",
+    "id": 134
+  },
+  {
+    "name": "Heist",
+    "id": 135
+  },
+  {
+    "name": "Hex Grid",
+    "id": 136
+  },
+  {
+    "name": "Hidden Object",
+    "id": 137
+  },
+  {
+    "name": "Historical",
+    "id": 138
+  },
+  {
+    "name": "Horror",
+    "id": 139
+  },
+  {
+    "name": "Horses",
+    "id": 140
+  },
+  {
+    "name": "Hunting",
+    "id": 141
+  },
+  {
+    "name": "Illuminati",
+    "id": 142
+  },
+  {
+    "name": "Intentionally Awkward Controls",
+    "id": 143
+  },
+  {
+    "name": "Interactive Fiction",
+    "id": 144
+  },
+  {
+    "name": "Inventory Management",
+    "id": 145
+  },
+  {
+    "name": "Investigation",
+    "id": 146
+  },
+  {
+    "name": "Isometric",
+    "id": 147
+  },
+  {
+    "name": "JRPG",
+    "id": 148
+  },
+  {
+    "name": "Kickstarter",
+    "id": 149
+  },
+  {
+    "name": "LEGO",
+    "id": 150
+  },
+  {
+    "name": "Lara Croft",
+    "id": 151
+  },
+  {
+    "name": "Lemmings",
+    "id": 152
+  },
+  {
+    "name": "Level Editor",
+    "id": 153
+  },
+  {
+    "name": "Linear",
+    "id": 154
+  },
+  {
+    "name": "Local Co-Op",
+    "id": 155
+  },
+  {
+    "name": "Local Multiplayer",
+    "id": 156
+  },
+  {
+    "name": "Logic",
+    "id": 157
+  },
+  {
+    "name": "Loot",
+    "id": 158
+  },
+  {
+    "name": "Lore-Rich",
+    "id": 159
+  },
+  {
+    "name": "Lovecraftian",
+    "id": 160
+  },
+  {
+    "name": "MMORPG",
+    "id": 161
+  },
+  {
+    "name": "MOBA",
+    "id": 162
+  },
+  {
+    "name": "Magic",
+    "id": 163
+  },
+  {
+    "name": "Management",
+    "id": 164
+  },
+  {
+    "name": "Mars",
+    "id": 165
+  },
+  {
+    "name": "Martial Arts",
+    "id": 166
+  },
+  {
+    "name": "Massively Multiplayer",
+    "id": 167
+  },
+  {
+    "name": "Match 3",
+    "id": 168
+  },
+  {
+    "name": "Mature",
+    "id": 169
+  },
+  {
+    "name": "Mechs",
+    "id": 170
+  },
+  {
+    "name": "Medieval",
+    "id": 171
+  },
+  {
+    "name": "Memes",
+    "id": 172
+  },
+  {
+    "name": "Metroidvania",
+    "id": 173
+  },
+  {
+    "name": "Military",
+    "id": 174
+  },
+  {
+    "name": "Mini Golf",
+    "id": 175
+  },
+  {
+    "name": "Minimalist",
+    "id": 176
+  },
+  {
+    "name": "Mining",
+    "id": 177
+  },
+  {
+    "name": "Mod",
+    "id": 178
+  },
+  {
+    "name": "Moddable",
+    "id": 179
+  },
+  {
+    "name": "Modern",
+    "id": 180
+  },
+  {
+    "name": "Mouse only",
+    "id": 181
+  },
+  {
+    "name": "Movie",
+    "id": 182
+  },
+  {
+    "name": "Multiplayer",
+    "id": 183
+  },
+  {
+    "name": "Multiple Endings",
+    "id": 184
+  },
+  {
+    "name": "Music",
+    "id": 185
+  },
+  {
+    "name": "Music-Based Procedural Generation",
+    "id": 186
+  },
+  {
+    "name": "Mystery",
+    "id": 187
+  },
+  {
+    "name": "Mystery Dungeon",
+    "id": 188
+  },
+  {
+    "name": "Mythology",
+    "id": 189
+  },
+  {
+    "name": "NSFW",
+    "id": 190
+  },
+  {
+    "name": "Narration",
+    "id": 191
+  },
+  {
+    "name": "Naval",
+    "id": 192
+  },
+  {
+    "name": "Ninja",
+    "id": 193
+  },
+  {
+    "name": "Noir",
+    "id": 194
+  },
+  {
+    "name": "Nonlinear",
+    "id": 195
+  },
+  {
+    "name": "Offroad",
+    "id": 196
+  },
+  {
+    "name": "On-Rails Shooter",
+    "id": 197
+  },
+  {
+    "name": "Online Co-Op",
+    "id": 198
+  },
+  {
+    "name": "Open World",
+    "id": 199
+  },
+  {
+    "name": "Otome",
+    "id": 200
+  },
+  {
+    "name": "Parkour",
+    "id": 201
+  },
+  {
+    "name": "Parody",
+    "id": 202
+  },
+  {
+    "name": "Party-Based RPG",
+    "id": 203
+  },
+  {
+    "name": "Perma Death",
+    "id": 204
+  },
+  {
+    "name": "Philisophical",
+    "id": 205
+  },
+  {
+    "name": "Photo Editing",
+    "id": 206
+  },
+  {
+    "name": "Physics",
+    "id": 207
+  },
+  {
+    "name": "Pinball",
+    "id": 208
+  },
+  {
+    "name": "Pirates",
+    "id": 209
+  },
+  {
+    "name": "Pixel Graphics",
+    "id": 210
+  },
+  {
+    "name": "Platformer",
+    "id": 211
+  },
+  {
+    "name": "Point & Click",
+    "id": 212
+  },
+  {
+    "name": "Political",
+    "id": 213
+  },
+  {
+    "name": "Politics",
+    "id": 214
+  },
+  {
+    "name": "Pool",
+    "id": 215
+  },
+  {
+    "name": "Post-apocalyptic",
+    "id": 216
+  },
+  {
+    "name": "Procedural Generation",
+    "id": 217
+  },
+  {
+    "name": "Programming",
+    "id": 218
+  },
+  {
+    "name": "Psychedelic",
+    "id": 219
+  },
+  {
+    "name": "Psychological",
+    "id": 220
+  },
+  {
+    "name": "Psychological Horror",
+    "id": 221
+  },
+  {
+    "name": "Puzzle",
+    "id": 222
+  },
+  {
+    "name": "Puzzle-Platformer",
+    "id": 223
+  },
+  {
+    "name": "PvE",
+    "id": 224
+  },
+  {
+    "name": "PvP",
+    "id": 225
+  },
+  {
+    "name": "Quick-Time Events",
+    "id": 226
+  },
+  {
+    "name": "RPG",
+    "id": 227
+  },
+  {
+    "name": "RPGMaker",
+    "id": 228
+  },
+  {
+    "name": "RTS",
+    "id": 229
+  },
+  {
+    "name": "Racing",
+    "id": 230
+  },
+  {
+    "name": "Real Time Tactics",
+    "id": 231
+  },
+  {
+    "name": "Real-Time",
+    "id": 232
+  },
+  {
+    "name": "Real-Time with Pause",
+    "id": 233
+  },
+  {
+    "name": "Realistic",
+    "id": 234
+  },
+  {
+    "name": "Relaxing",
+    "id": 235
+  },
+  {
+    "name": "Remake",
+    "id": 236
+  },
+  {
+    "name": "Replay Value",
+    "id": 237
+  },
+  {
+    "name": "Resource Management",
+    "id": 238
+  },
+  {
+    "name": "Retro",
+    "id": 239
+  },
+  {
+    "name": "Rhythm",
+    "id": 240
+  },
+  {
+    "name": "Robots",
+    "id": 241
+  },
+  {
+    "name": "Rogue-like",
+    "id": 242
+  },
+  {
+    "name": "Rogue-lite",
+    "id": 243
+  },
+  {
+    "name": "Romance",
+    "id": 244
+  },
+  {
+    "name": "Rome",
+    "id": 245
+  },
+  {
+    "name": "Runner",
+    "id": 246
+  },
+  {
+    "name": "Sailing",
+    "id": 247
+  },
+  {
+    "name": "Sandbox",
+    "id": 248
+  },
+  {
+    "name": "Satire",
+    "id": 249
+  },
+  {
+    "name": "Sci-fi",
+    "id": 250
+  },
+  {
+    "name": "Science",
+    "id": 251
+  },
+  {
+    "name": "Score Attack",
+    "id": 252
+  },
+  {
+    "name": "Shoot 'Em Up",
+    "id": 253
+  },
+  {
+    "name": "Shooter",
+    "id": 254
+  },
+  {
+    "name": "Short",
+    "id": 255
+  },
+  {
+    "name": "Side Scroller",
+    "id": 256
+  },
+  {
+    "name": "Silent Protagonist",
+    "id": 257
+  },
+  {
+    "name": "Simulation",
+    "id": 258
+  },
+  {
+    "name": "Singleplayer",
+    "id": 259
+  },
+  {
+    "name": "Sniper",
+    "id": 260
+  },
+  {
+    "name": "Soccer",
+    "id": 261
+  },
+  {
+    "name": "Software",
+    "id": 262
+  },
+  {
+    "name": "Software Training",
+    "id": 263
+  },
+  {
+    "name": "Sokoban",
+    "id": 264
+  },
+  {
+    "name": "Soundtrack",
+    "id": 265
+  },
+  {
+    "name": "Space",
+    "id": 266
+  },
+  {
+    "name": "Space Sim",
+    "id": 267
+  },
+  {
+    "name": "Spectacle fighter",
+    "id": 268
+  },
+  {
+    "name": "Spelling",
+    "id": 269
+  },
+  {
+    "name": "Split Screen",
+    "id": 270
+  },
+  {
+    "name": "Sports",
+    "id": 271
+  },
+  {
+    "name": "Star Wars",
+    "id": 272
+  },
+  {
+    "name": "Stealth",
+    "id": 273
+  },
+  {
+    "name": "Steam Machine",
+    "id": 274
+  },
+  {
+    "name": "Steampunk",
+    "id": 275
+  },
+  {
+    "name": "Story Rich",
+    "id": 276
+  },
+  {
+    "name": "Strategy",
+    "id": 277
+  },
+  {
+    "name": "Strategy RPG",
+    "id": 278
+  },
+  {
+    "name": "Stylized",
+    "id": 279
+  },
+  {
+    "name": "Superhero",
+    "id": 280
+  },
+  {
+    "name": "Supernatural",
+    "id": 281
+  },
+  {
+    "name": "Surreal",
+    "id": 282
+  },
+  {
+    "name": "Survival",
+    "id": 283
+  },
+  {
+    "name": "Survival Horror",
+    "id": 284
+  },
+  {
+    "name": "Swordplay",
+    "id": 285
+  },
+  {
+    "name": "Tactical",
+    "id": 286
+  },
+  {
+    "name": "Tactical RPG",
+    "id": 287
+  },
+  {
+    "name": "Tanks",
+    "id": 288
+  },
+  {
+    "name": "Team-Based",
+    "id": 289
+  },
+  {
+    "name": "Text-Based",
+    "id": 290
+  },
+  {
+    "name": "Third Person",
+    "id": 291
+  },
+  {
+    "name": "Third-Person Shooter",
+    "id": 292
+  },
+  {
+    "name": "Thriller",
+    "id": 293
+  },
+  {
+    "name": "Time Attack",
+    "id": 294
+  },
+  {
+    "name": "Time Manipulation",
+    "id": 295
+  },
+  {
+    "name": "Time Travel",
+    "id": 296
+  },
+  {
+    "name": "Top-Down",
+    "id": 297
+  },
+  {
+    "name": "Top-Down Shooter",
+    "id": 298
+  },
+  {
+    "name": "Touch-Friendly",
+    "id": 299
+  },
+  {
+    "name": "Tower Defense",
+    "id": 300
+  },
+  {
+    "name": "TrackIR",
+    "id": 301
+  },
+  {
+    "name": "Trading",
+    "id": 302
+  },
+  {
+    "name": "Trading Card Game",
+    "id": 303
+  },
+  {
+    "name": "Trains",
+    "id": 304
+  },
+  {
+    "name": "Transhumanism",
+    "id": 305
+  },
+  {
+    "name": "Turn-Based",
+    "id": 306
+  },
+  {
+    "name": "Turn-Based Combat",
+    "id": 307
+  },
+  {
+    "name": "Turn-Based Strategy",
+    "id": 308
+  },
+  {
+    "name": "Turn-Based Tactics",
+    "id": 309
+  },
+  {
+    "name": "Tutorial",
+    "id": 310
+  },
+  {
+    "name": "Twin Stick Shooter",
+    "id": 311
+  },
+  {
+    "name": "Typing",
+    "id": 312
+  },
+  {
+    "name": "Underground",
+    "id": 313
+  },
+  {
+    "name": "Underwater",
+    "id": 314
+  },
+  {
+    "name": "Utilities",
+    "id": 315
+  },
+  {
+    "name": "VR",
+    "id": 316
+  },
+  {
+    "name": "Vampire",
+    "id": 317
+  },
+  {
+    "name": "Video Production",
+    "id": 318
+  },
+  {
+    "name": "Villain Protagonist",
+    "id": 319
+  },
+  {
+    "name": "Violent",
+    "id": 320
+  },
+  {
+    "name": "Visual Novel",
+    "id": 321
+  },
+  {
+    "name": "Voice Control",
+    "id": 322
+  },
+  {
+    "name": "Voxel",
+    "id": 323
+  },
+  {
+    "name": "Walking Simulator",
+    "id": 324
+  },
+  {
+    "name": "War",
+    "id": 325
+  },
+  {
+    "name": "Wargame",
+    "id": 326
+  },
+  {
+    "name": "Warhammer 40K",
+    "id": 327
+  },
+  {
+    "name": "Web Publishing",
+    "id": 328
+  },
+  {
+    "name": "Werewolves",
+    "id": 329
+  },
+  {
+    "name": "Western",
+    "id": 330
+  },
+  {
+    "name": "Word Game",
+    "id": 331
+  },
+  {
+    "name": "World War I",
+    "id": 332
+  },
+  {
+    "name": "World War II",
+    "id": 333
+  },
+  {
+    "name": "Wrestling",
+    "id": 334
+  },
+  {
+    "name": "Zombies",
+    "id": 335
+  },
+  {
+    "name": "e-sports",
+    "id": 336
+  }
+]
