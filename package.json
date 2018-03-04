@@ -27,6 +27,8 @@
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
     "eslint": "^4.18.1",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.9.0",
@@ -38,19 +40,25 @@
     "webpack": "^3.11.0"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "bluebird": "^3.5.1",
     "change-case": "^3.0.2",
-    "axios": "^0.18.0",
     "dotenv": "^5.0.0",
     "express": "^4.16.2",
     "knex": "^0.14.4",
     "lodash": "^4.17.5",
     "morgan": "^1.9.0",
     "pg": "^7.4.1",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "prop-types": "^15.6.1",
     "random-date-generator": "^1.0.2",
     "random-js": "^1.0.8",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
     "text-to-picture": "^1.0.0"
+  },
+  "jest": {
+    "setupFiles": [
+      "<rootDir>/spec/setup.js"
+    ]
   }
 }
