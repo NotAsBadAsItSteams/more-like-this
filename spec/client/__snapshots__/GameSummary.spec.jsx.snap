@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameSummary component should match snapshot 1`] = `
+<div
+  className="element"
+>
+  <img
+    alt="DOTA 2"
+    className="img"
+    src="http://via.placeholder.com/184x69"
+  />
+  <div
+    className="title"
+  >
+    DOTA 2
+  </div>
+  <div
+    className="price"
+  >
+    $24.99
+  </div>
+</div>
+`;
