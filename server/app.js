@@ -6,6 +6,6 @@ const app = express();
 
 mountEnvironmentMiddleware(app);
 
-app.use('/games', gamesRouter);
+app.use('/api/games', gamesRouter);
 
 module.exports = app;
