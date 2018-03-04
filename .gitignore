@@ -3,3 +3,4 @@ node_modules
 client/dist/bundle.js
 client/dist/assets/screenshots
 client/dist/assets/thumbnails
+coverage

@@ -57,6 +57,17 @@
     "text-to-picture": "^1.0.0"
   },
   "jest": {
+    "collectCoverageFrom": [
+      "**/*.{js, jsx}",
+      "!**/node_modules/**",
+      "!client/dist/**",
+      "!.eslintrc.js",
+      "!knexfile.js",
+      "!webpack.config.js",
+      "!db/migrations/**",
+      "!db/seeds/**",
+      "!coverage/**"
+    ],
     "setupFiles": [
       "<rootDir>/spec/setup.js"
     ]
