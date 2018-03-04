@@ -1,0 +1,22 @@
+:local .element {
+  background-color: #677886;
+  color: #C0D4E0;
+  padding: 10px;
+  font-size: 12px;
+  font-family: Tahoma, Arial, Helvetica, sans-serif;
+  border-radius: 2px;
+  width: 285px;
+}
+
+:local .positive {
+  color: #65c0f4;
+}
+
+:local .negative {
+  color: #c35c2c;
+}
+
+:local .mixed {
+  color: #a89269;
+}
+
