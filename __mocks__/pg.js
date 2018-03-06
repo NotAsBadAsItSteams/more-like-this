@@ -9,6 +9,7 @@ const client = {
       },
     ],
   }),
+  connect: jest.fn(),
 };
 
 pg.Client = jest.fn(() => client);

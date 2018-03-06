@@ -1,6 +1,6 @@
 const Promise = require('bluebird');
 const textToPicture = require('text-to-picture');
-const { snakeCase } = require('change-case');
+const { snakeCase } = require('change-object-case');
 const path = require('path');
 // CONSTANTS
 const IMAGE_DIR = path.join(__dirname, '../client/dist/assets');

@@ -1,8 +1,11 @@
 const express = require('express');
 const gamesRouter = require('./routers/games');
 const mountEnvironmentMiddleware = require('./environments');
+const db = require('../db/index');
 
 const app = express();
+
+db.connect();
 
 mountEnvironmentMiddleware(app);
 
