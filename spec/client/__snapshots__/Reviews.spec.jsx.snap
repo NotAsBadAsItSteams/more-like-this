@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Reviews component should match snapshot for mixed review 1`] = `
+<div
+  className="element"
+>
+  <div>
+    Overall user reviews: 
+  </div>
+  <span
+    className="mixed"
+  >
+    Mixed
+  </span>
+  <span>
+     (
+    12,817
+     reviews)
+  </span>
+</div>
+`;
+
+exports[`Reviews component should match snapshot for mostly negative review 1`] = `
+<div
+  className="element"
+>
+  <div>
+    Overall user reviews: 
+  </div>
+  <span
+    className="negative"
+  >
+    Mostly Negative
+  </span>
+  <span>
+     (
+    20,007
+     reviews)
+  </span>
+</div>
+`;
+
+exports[`Reviews component should match snapshot for mostly positive review 1`] = `
+<div
+  className="element"
+>
+  <div>
+    Overall user reviews: 
+  </div>
+  <span
+    className="positive"
+  >
+    Mostly Positive
+  </span>
+  <span>
+     (
+    107
+     reviews)
+  </span>
+</div>
+`;
