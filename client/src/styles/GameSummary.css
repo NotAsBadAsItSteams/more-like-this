@@ -1,0 +1,35 @@
+:local .element {
+  background-color: #16212e;
+  padding: 15px;
+  width: 184px;
+  border-color: #1c2938;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Tahoma, Arial, Helvetica, sans-serif;
+}
+
+:local .element:hover {
+  border-color: #66c0f4;
+  border-style: solid;
+  border-width: 1px;
+  padding: 15px;
+  width: 184px;
+}
+
+:local .img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+:local .price {
+  color: #acdcf5;
+  font-size: 11px;
+}
+
+:local .title {
+  margin-top: 5px;
+  margin-bottom: 2px;
+  color: #8f98a0;
+  font-size: 13px;
+}
